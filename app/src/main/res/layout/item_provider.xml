@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <!-- Provider Icon -->
+    <ImageView
+        android:id="@+id/imageViewProvider"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/provider_image_description" />
+
+    <!-- Provider Name -->
+    <TextView
+        android:id="@+id/textViewProviderName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:text="@string/provider_name" />
+
+    <!-- Static Star Rating Above Icons -->
+    <RatingBar
+        android:id="@+id/ratingBarProvider"
+        style="?android:attr/ratingBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="0.5"
+        android:rating="3.5"
+        android:isIndicator="true"/>
+
+    <!-- View Reviews Icon -->
+    <ImageView
+        android:id="@+id/imageViewViewReviews"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_page"
+        android:contentDescription="@string/view_reviews_description" />
+
+    <!-- Write Review Icon -->
+    <ImageView
+        android:id="@+id/imageViewWriteReview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_review"
+        android:contentDescription="@string/write_review_description" />
+</LinearLayout>
+
+
+
+

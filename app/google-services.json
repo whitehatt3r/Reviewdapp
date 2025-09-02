@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "669537836991",
+    "project_id": "reviewdapp-b1bc3",
+    "storage_bucket": "reviewdapp-b1bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669537836991:android:5d9c188c4983fd313dcb0a",
+        "android_client_info": {
+          "package_name": "com.example.reviewdapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdEuVqMT9kBurlJ_FVjrOSM23RqJVLhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

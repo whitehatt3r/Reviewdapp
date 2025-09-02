@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ReviewdApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Primary dark color. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Accent color. -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Background color. -->
+        <item name="android:windowBackground">@color/windowBackground</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Style for text views in the app. -->
+    <style name="Theme.ReviewdApp.TextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <!-- ... other text view styles ... -->
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color> <!-- Replace with your extracted green color -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- A darker shade of the primary color -->
+    <color name="colorAccent">#FFC107</color> <!-- An accent color that complements the primary color -->
+    <color name="windowBackground">#FFFFFF</color> <!-- The default background color for windows -->
+    <color name="white">#FFFFFF</color>
+    <color name="placeholder_color">#80cbc4</color> <!-- Light space green for placeholder -->
+</resources>

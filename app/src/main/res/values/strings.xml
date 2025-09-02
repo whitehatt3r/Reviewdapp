@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Review\'D</string>
+
+    <string name="provider_image_description">Service provider image</string>
+    <string name="write_review_button_description">Write a Review</string>
+    <string name="review_rating_format">Rating: %1$.1f</string>
+    <string name="provider_image">Provider Image</string>
+    <string name="provider_rating">Provider Rating</string>
+    <string name="provider_reviews_heading">Customer Reviews</string>
+    <string name="review_comment_placeholder">Review comment will go here</string>
+    <string name="review_rating_placeholder">Rating will go here</string>
+    <string name="review_comment_description">Review comment text</string>
+    <string name="review_rating_description">Review rating display</string>
+    <string name="write_review">Write Review</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="review_error_empty">Your review cannot be empty.</string>
+    <string name="view_reviews">View Reviews</string>
+    <string name="review_button_description">View reviews</string>
+    <string name="view_reviews_description">View reviews for this provider</string>
+    <string name="write_review_description">Write a review for this provider</string>
+
+
+    <!-- Navigation Menu Items -->
+    <string name="menu_home">Home</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_my_account">My Account</string>
+    <string name="menu_login_signup">Login/Signup</string>
+
+    <!-- Search View Hint -->
+    <string name="search_hint">Search by service type or location</string>
+
+    <!-- Footer Links -->
+    <string name="footer_about">About</string>
+    <string name="footer_contact">Contact</string>
+    <string name="footer_terms_of_service">Terms of Service</string>
+    <string name="footer_privacy_policy">Privacy Policy</string>
+    <string name="provider_name">Provider Name</string>
+    <string name="type_your_review_here">Type your review here</string>
+</resources>
